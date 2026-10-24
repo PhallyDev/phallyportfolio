@@ -58,7 +58,7 @@ const skillGroups = [
   {
     title: 'Tools & Workflow',
     icon: CodeXml,
-    skills: ['Git', 'GitHub'],
+    skills: ['Git', 'GitHub',Netlify,Figma],
   },
 ]
 
