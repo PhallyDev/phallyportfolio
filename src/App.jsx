@@ -53,7 +53,7 @@ const skillGroups = [
   {
     title: 'Web Development',
     icon: Code,
-    skills: ['HTML', 'CSS', 'JavaScript', 'React'],
+    skills: ['HTML', 'CSS', 'JavaScript', 'ReactJS',"Bootstrap",'tailwind css'],
   },
   {
     title: 'Tools & Workflow',
